@@ -1,0 +1,11 @@
+{
+  "format_version": [1, 1, 0],
+  "stone":         { "blockshape": "invisible" },
+  "dirt":          { "blockshape": "invisible" },
+  "deepslate":     { "blockshape": "invisible" },
+  "sandstone":     { "blockshape": "invisible" },
+  "red_sandstone": { "blockshape": "invisible" },
+  "netherrack":    { "blockshape": "invisible" },
+  "soul_sand":     { "blockshape": "invisible" },
+  "soul_soil":     { "blockshape": "invisible" }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "X-Eye",
+    "description": "A simple but powerful X-Ray texture pack. By §bvytdev§r",
+    "uuid": "62d24294-bc29-47a9-8b41-86276bd804b6",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "description": "resource pack",
+      "type": "resources",
+      "uuid": "92f7c07a-6a31-4dbd-867c-4fa0162f288b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
