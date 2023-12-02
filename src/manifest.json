@@ -14,5 +14,12 @@
       "uuid": "92f7c07a-6a31-4dbd-867c-4fa0162f288b",
       "version": [1, 0, 0]
     }
-  ]
+  ],
+  "metadata": {
+    "authors": [
+      "VYT"
+    ],
+    "license": "MIT",
+    "url": "https://github.com/vytdev/x-eye"
+  }
 }
